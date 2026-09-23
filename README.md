@@ -1,1 +1,1 @@
-### Thingking Machine (chinfp)
+### Interpreting Machine (chinfp)
